@@ -1,54 +1,54 @@
-author,title,year,genre
-Oscar Wilde,The Soul of man under Socialism,1891,philosophy
-,Nietzsche. Werk und Wirkungen,1974,philosophy
-Christian Benne; Claus Zittel,Nietzsche und die Lyrik: Ein Kompendium,2017,philosophy
-Ayn Rand,The Romantic Manifesto,1969,philosophy
-Ayn Rand,For the New Intellectual,1961,philosophy
-James Huneker,Egoists. A Book of Supermen,1909,philosophy
-Max Stirner,Der Einzige und sein Eigentum,1844,philosophy
-,George-Jahrbuch. Band 2,1999,literary studies
-Marita Keilson-Lauritz,Von der Liebe die Freundschaft heißt,1987,literary studies
-Hans Bethge,Hölderlin,1900,biography
-Frank Schirrmacher,Die Stunde der Welt,2017,biography
-Wolfgang Emmerich,Paul Celan,1998,biography
-John Felstiner,Paul Celan. Eine Biographie,2000,biography
-William Styron,Darkness Visible,1989,novel
-Knut Hamsun,Hunger,1888,novel
-Albert Camus,Der Fremde,1942,novel
-Stefan Zweig,Ungeduld des Herzens,1939,novel
-Gunnar Kaiser,Unter der Haut,2018,novel
-Søren Kierkegaard,Das Tagebuch des Verführers,1843,novel
-Wilhelm Waiblinger,Phaethon,1823,novel
-Ayn Rand,Anthem,1938,novel
-Ayn Rand,We the Living,1936,novel
-Ayn Rand,The Fountainhead,1943,novel
-Marc-Uwe Kling,Die Känguru-Apokryphen,2018,short stories
-Hans Bethge,Der gelbe Kater,1902,short stories
-Hans Bethge,Syrinx. Ein Skizzenbuch,1895,short stories
-Stefan Zweig,Sternstunden der Menschheit,1943,short stories
-Stefan Zweig,Kleine Chronik,1929,short stories
-Stefan Zweig,Amok. Novellen einer Leidenschaft,1922,short stories
-Stefan Zweig,Erstes Erlebnis. Vier Geschichten aus Kinderland,1911,short stories
-Stefan Zweig,Angst,1920,short stories
-Stefan Zweig,Die Hochzeit von Lyon,1980,short stories
-Stefan Zweig,Vierundzwanzig Stunden aus dem Leben einer Frau,1926,short stories
-Stefan Zweig,Unvermutete Bekanntschaft mit einem Handwerk,1936,short stories
-Hans Bethge,Sonnenuntergang,1900,drama
-Σοφοκλής,Τραχίνιαι,-450,drama
-Ὅμηρος,Ὀδύσσεια,-600,epic
-Ferdinand Gregorovius,Euphorion,1858,epic
-Rupi Kaur,Milk and Honey,2015,poetry
-Arno Holz,Phantasus,1899,poetry
-Hans Magnus Enzensberger,Gedichte,1963,poetry
-Gerard Manley Hopkins,Poems,1918,poetry
-Dagmar Nick,Märtyrer,1947,poetry
-Theodor Däubler,Echo ohne Ende,,poetry
-Theodor Däubler,Attische Sonette,1924,poetry
-Rainer Maria Rilke,Gedichte. Band 2,,poetry
-Max Kommerell,Gesammelte Gedichte,1946,poetry
-Paulheinz Quack,Die Insel. Sonette,1946,poetry
-Rolf Schilling,Scharlach und Schwan,1990,poetry
-Rolf Schilling,Stunde des Widders,1990,poetry
-Rolf Schilling,Questen-Gesang,1990,poetry
-Rolf Schilling,Die Häupter der Hydra,1993,poetry
-Rolf Schilling,Feuerlilie,1995,poetry
+author,title,year,genre,country of origin
+Oscar Wilde,The Soul of man under Socialism,1891,philosophy,Ireland
+,Nietzsche. Werk und Wirkungen,1974,philosophy,Germany
+Christian Benne; Claus Zittel,Nietzsche und die Lyrik: Ein Kompendium,2017,philosophy,Germany
+Ayn Rand,The Romantic Manifesto,1969,philosophy,USA
+Ayn Rand,For the New Intellectual,1961,philosophy,USA
+James Huneker,Egoists. A Book of Supermen,1909,philosophy,USA
+Max Stirner,Der Einzige und sein Eigentum,1844,philosophy,Germany
+,George-Jahrbuch. Band 2,1999,literary studies,Germany
+Marita Keilson-Lauritz,Von der Liebe die Freundschaft heißt,1987,literary studies,Germany
+Hans Bethge,Hölderlin,1900,biography,Germany
+Frank Schirrmacher,Die Stunde der Welt,2017,biography,Germany
+Wolfgang Emmerich,Paul Celan,1998,biography,Germany
+John Felstiner,Paul Celan. Eine Biographie,2000,biography,USA
+William Styron,Darkness Visible,1989,novel,USA
+Knut Hamsun,Hunger,1888,novel,Norway
+Albert Camus,Der Fremde,1942,novel,France
+Stefan Zweig,Ungeduld des Herzens,1939,novel,Austria
+Gunnar Kaiser,Unter der Haut,2018,novel,Germany
+Søren Kierkegaard,Das Tagebuch des Verführers,1843,novel,Denmark
+Wilhelm Waiblinger,Phaethon,1823,novel,Germany
+Ayn Rand,Anthem,1938,novel,USA
+Ayn Rand,We the Living,1936,novel,USA
+Ayn Rand,The Fountainhead,1943,novel,USA
+Marc-Uwe Kling,Die Känguru-Apokryphen,2018,short stories,Germany
+Hans Bethge,Der gelbe Kater,1902,short stories,Germany
+Hans Bethge,Syrinx. Ein Skizzenbuch,1895,short stories,Germany
+Stefan Zweig,Sternstunden der Menschheit,1943,short stories,Austria
+Stefan Zweig,Kleine Chronik,1929,short stories,Austria
+Stefan Zweig,Amok. Novellen einer Leidenschaft,1922,short stories,Austria
+Stefan Zweig,Erstes Erlebnis. Vier Geschichten aus Kinderland,1911,short stories,Austria
+Stefan Zweig,Angst,1920,short stories,Austria
+Stefan Zweig,Die Hochzeit von Lyon,1980,short stories,Austria
+Stefan Zweig,Vierundzwanzig Stunden aus dem Leben einer Frau,1926,short stories,Austria
+Stefan Zweig,Unvermutete Bekanntschaft mit einem Handwerk,1936,short stories,Austria
+Hans Bethge,Sonnenuntergang,1900,drama,Austria
+Σοφοκλής,Τραχίνιαι,-450,drama,Greece
+Ὅμηρος,Ὀδύσσεια,-600,epic,Greece
+Ferdinand Gregorovius,Euphorion,1858,epic,Germany
+Rupi Kaur,Milk and Honey,2014,poetry,Canada
+Arno Holz,Phantasus,1899,poetry,Germany
+Hans Magnus Enzensberger,Gedichte,1963,poetry,Germany
+Gerard Manley Hopkins,Poems,1918,poetry,England
+Dagmar Nick,Märtyrer,1947,poetry,Germany
+Theodor Däubler,Echo ohne Ende,,poetry,Austria
+Theodor Däubler,Attische Sonette,1924,poetry,Austria
+Rainer Maria Rilke,Gedichte. Band 2,,poetry,Austria
+Max Kommerell,Gesammelte Gedichte,1946,poetry,Germany
+Paulheinz Quack,Die Insel. Sonette,1946,poetry,Germany
+Rolf Schilling,Scharlach und Schwan,1990,poetry,Germany
+Rolf Schilling,Stunde des Widders,1990,poetry,Germany
+Rolf Schilling,Questen-Gesang,1990,poetry,Germany
+Rolf Schilling,Die Häupter der Hydra,1993,poetry,Germany
+Rolf Schilling,Feuerlilie,1995,poetry,Germany
