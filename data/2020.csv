@@ -1,66 +1,64 @@
-author,title,year,genre,country of origin
-Thomas Böhm; Carsten Pfeiffer,Die Wunderkammer der Deutschen Sprache,2019,linguistics,Germany
-Friedrich Nietzsche,Der griechische Staat,1872,philosophy,Germany
-Friedrich Nietzsche,Philosophie im tragischen Zeitalter der Griechen,1873,philosophy,Germany
-Friedrich Nietzsche,Wissenschaft und Weisheit im Kampfe,1875,philosophy,Germany
-Theodore Kaczynski,Industrial Society and its Future,1995,politics,USA
-Ernst Jünger,Auf den Marmorklippen,1939,novel,Germany
-Ernst Jünger,Afrikanische Spiele,1936,novel,Germany
-Fjodor Dostojewski,Der Großinquisitor,1879,novel,Russia
-Nicolás Gómez Dávila,Escolios a un Texto Implícito,1977,philosophy,Columbia
-Rudolf Steiner,Friedrich Nietzsche. Ein Kämpfer gegen seine Zeit,1895,philosophy,Austria
-Edgar Allan Poe,The Philosophy of Composition,1846,philosophy,USA
-Mencius Moldbug,A Formalist Manifesto,2007,politics,USA
-Stefan George,Einleitungen und Merksprüche der Blätter für die Kunst,1919,philosophy,Germany
-Rolf Schilling,Feuerlilie,1995,poetry,Germany
-Albert Camus,Nuptials,1938,short stories,France
-Rolf Schilling,Schwarzer Apollon. Essays zur Symbolik,1990,philosophy,Germany
-Rolf Schilling,Ein verlassener Garten. Gedichte nach Algernon Charles Swinburne,1990,poetry,Germany
-Rolf Schilling,Der Phoenix und die Taube. Aus dem Englischen,1991,poetry,Germany
-Rolf Schilling,Im Spiegel der Blitze,2017,poetry,Germany
-Ernst Jünger,Geheimnisse der Sprache. Zwei Essays,1934,philosophy,Germany
-Otto Mann,Deutsche Literaturgeschichte,1964,literary studies,Germany
-Pierre Bertaux,Hölderlin-Variationen,1984,literary studies,Germany
-Paul Celan,"Drei russische Dichter: Alexander Block, Ossip Mandelstamm, Sergej Jessenin",1963,poetry,Russia
-Prosper Mérimée,Carmen,1847,novel,France
-Michael Braun; Kathrin Dittmer; Martin Rector,Gegenstrophe. Blätter zur Lyrik 5,2013,poetry,Germany
-Rolf Schilling,Orpheus des Nordens,2020,poetry,Germany
-Publius Ovidius Naso,Tristia,12,poetry,Italy
-Fjodor Dostojewski,Aufzeichnungen aus dem Kellerloch,1864,novel,Russia
-Rolf Schilling,Kreis der Gestalten. Zwölf Huldigungen,1990,literary studies,Germany
-Rolf Schilling,Halkyon,1997,poetry,Germany
-Rolf Schilling,Das holde Reich. Essays zur Symbolik,1990,philosophy,Germany
-Tschingis Aitmatow,Dshamilja,1958,novel,Kyrgyzstan
-Kurt Pinthus,Menschheitsdämmerung,1959,poetry,Germany
-Jorge Luis Borges,Die Bibliothek von Babel,1944,short stories,Argentina
-Ἡσίοδος,Θεογονία,-700,poetry,Greece
-Ἡσίοδος,Ἔργα καὶ Ἡμέραι,-700,poetry,Greece
-Ernst Jünger,Das abenteuerliche Herz,1938,short stories,Germany
-Rolf Schilling,Was der Schatten sprach. Aus dem Französischen und Russischen,1993,poetry,Germany
-Rudolf G. Binding,Gedichte,1922,poetry,Germany
-Gerhard Storz,Der Vers in der neueren deutschen Dichtung,1970,literary studies,Germany
-Wolfgang Schühly,Zeichen in die Esche geritzt: Rolf Schilling zum siebzigsten Geburtstag,2020,literary studies,Germany
-Peter Boerner,Johann Wolfgang von Goethe in Selbstzeugnissen und Bilddokumenten,1966,biography,Germany
-Thorwald Dethlefsen,Das Erlebnis der Wiedergeburt: Heilung durch Reinkarnation,1976,philosophy,Germany
-Andrea Marcolongo,Warum Altgriechisch genial ist,2016,linguistics,Italy
-Thorwald Dethlefsen,Ausgewählte Texte,1988,philosophy,Germany
-Hermann Hesse,Demian. Die Geschichte von Emil Sinclairs Jugend,1919,novel,Germany
-Will Scheller,Stefan George,1938,literary studies,Germany
-Thorwald Dethlefsen,Das Leben nach dem Leben: Gespräche mit Wiedergeborenen,1974,philosophy,Germany
-Johannes Hemleben,Rudolf Steiner,1963,biography,Austria
-Thorwald Dethlefsen,Schicksal als Chance: Das Urwissen zur Vollkommenheit des Menschen,1979,philosophy,Germany
-Σοφόκλης,Φιλοκτήτης,-409,drama,Greece
-Thorwald Dethlefsen,Ödipus der Rätsellöser. Der Mensch zwischen Schuld und Erlösung,1990,philosophy,Germany
-Heinrich von Kleist,Amphitryon,1807,drama,Germany
-Ernst Herbeck,Alexanders poetische Texte,1977,poetry,Germany
-Gerhard Wehr,C. G. Jung,1969,biography,Switzerland
-Walter von Hauff,Im Siegeswagen des Dionysos. Ein Nietzsche-Roman,1924,philosophy,Germany
-Friedrich Hölderlin,Der Tod des Empedokles,1800,drama,Germany
-Jorge Luis Borges,Das Sandbuch,1975,short stories,Argentina
-Jorge Luis Borges,Labyrinthe,1949,short stories,Argentina
-Rolf Schilling,Lingaraja,2012,poetry,Germany
-Rita Reiners,Der Dornbusch,1969,poetry,Germany
-Angelus Silesius,Werde wesentlich!,1657,poetry,Germany
-,George-Jahrbuch. Band 13,2020,literary studies,Germany
-Ernst Jünger,Auf den Marmorklippen,1938,novel,Germany
-Ernst Jünger,Afrikanische Spiele,1936,novel,Germany
+author,title,year,genre,country of origin,pages
+Thomas Böhm; Carsten Pfeiffer,Die Wunderkammer der Deutschen Sprache,2019,linguistics,Germany,304
+Friedrich Nietzsche,Der griechische Staat,1872,philosophy,Germany,53
+Friedrich Nietzsche,Philosophie im tragischen Zeitalter der Griechen,1873,philosophy,Germany,82
+Friedrich Nietzsche,Wissenschaft und Weisheit im Kampfe,1875,philosophy,Germany,23
+Theodore Kaczynski,Industrial Society and its Future,1995,politics,USA,34
+Ernst Jünger,Auf den Marmorklippen,1939,novel,Germany,79
+Ernst Jünger,Afrikanische Spiele,1936,novel,Germany,129
+Fjodor Dostojewski,Der Großinquisitor,1879,novel,Russia,35
+Nicolás Gómez Dávila,Escolios a un Texto Implícito,1977,philosophy,Columbia,217
+Rudolf Steiner,Friedrich Nietzsche. Ein Kämpfer gegen seine Zeit,1895,philosophy,Austria,133
+Edgar Allan Poe,The Philosophy of Composition,1846,philosophy,USA,10
+Mencius Moldbug,A Formalist Manifesto,2007,politics,USA,16
+Stefan George,Einleitungen und Merksprüche der Blätter für die Kunst,1919,philosophy,Germany,53
+Rolf Schilling,Feuerlilie,1995,poetry,Germany,255
+Albert Camus,Nuptials,1938,short stories,France,87
+Rolf Schilling,Schwarzer Apollon. Essays zur Symbolik,1990,philosophy,Germany,207
+Rolf Schilling,Ein verlassener Garten. Gedichte nach Algernon Charles Swinburne,1990,poetry,Germany,158
+Rolf Schilling,Der Phoenix und die Taube. Aus dem Englischen,1991,poetry,Germany,239
+Rolf Schilling,Im Spiegel der Blitze,2017,poetry,Germany,287
+Ernst Jünger,Geheimnisse der Sprache. Zwei Essays,1934,philosophy,Germany,79
+Otto Mann,Deutsche Literaturgeschichte,1964,literary studies,Germany,625
+Pierre Bertaux,Hölderlin-Variationen,1984,literary studies,Germany,209
+Paul Celan,"Drei russische Dichter: Alexander Block, Ossip Mandelstamm, Sergej Jessenin",1963,poetry,Russia,140
+Prosper Mérimée,Carmen,1847,novel,France,147
+Michael Braun; Kathrin Dittmer; Martin Rector,Gegenstrophe. Blätter zur Lyrik 5,2013,poetry,Germany,108
+Rolf Schilling,Orpheus des Nordens,2020,poetry,Germany,255
+Publius Ovidius Naso,Tristia,12,poetry,Italy,113
+Fjodor Dostojewski,Aufzeichnungen aus dem Kellerloch,1864,novel,Russia,163
+Rolf Schilling,Kreis der Gestalten. Zwölf Huldigungen,1990,literary studies,Germany,223
+Rolf Schilling,Halkyon,1997,poetry,Germany,223
+Rolf Schilling,Das holde Reich. Essays zur Symbolik,1990,philosophy,Germany,239
+Tschingis Aitmatow,Dshamilja,1958,novel,Kyrgyzstan,123
+Kurt Pinthus,Menschheitsdämmerung,1959,poetry,Germany,371
+Jorge Luis Borges,Die Bibliothek von Babel,1944,short stories,Argentina,92
+Ἡσίοδος,Θεογονία,-700,poetry,Greece,67
+Ἡσίοδος,Ἔργα καὶ Ἡμέραι,-700,poetry,Greece,61
+Ernst Jünger,Das abenteuerliche Herz,1938,short stories,Germany,200
+Rolf Schilling,Was der Schatten sprach. Aus dem Französischen und Russischen,1993,poetry,Germany,191
+Rudolf G. Binding,Gedichte,1922,poetry,Germany,151
+Gerhard Storz,Der Vers in der neueren deutschen Dichtung,1970,literary studies,Germany,231
+Wolfgang Schühly,Zeichen in die Esche geritzt: Rolf Schilling zum siebzigsten Geburtstag,2020,literary studies,Germany,366
+Peter Boerner,Johann Wolfgang von Goethe in Selbstzeugnissen und Bilddokumenten,1966,biography,Germany,165
+Thorwald Dethlefsen,Das Erlebnis der Wiedergeburt: Heilung durch Reinkarnation,1976,philosophy,Germany,286
+Andrea Marcolongo,Warum Altgriechisch genial ist,2016,linguistics,Italy,265
+Thorwald Dethlefsen,Ausgewählte Texte,1988,philosophy,Germany,240
+Hermann Hesse,Demian. Die Geschichte von Emil Sinclairs Jugend,1919,novel,Germany,163
+Will Scheller,Stefan George,1938,literary studies,Germany,198
+Thorwald Dethlefsen,Das Leben nach dem Leben: Gespräche mit Wiedergeborenen,1974,philosophy,Germany,202
+Johannes Hemleben,Rudolf Steiner,1963,biography,Austria,167
+Thorwald Dethlefsen,Schicksal als Chance: Das Urwissen zur Vollkommenheit des Menschen,1979,philosophy,Germany,272
+Σοφόκλης,Φιλοκτήτης,-409,drama,Greece,62
+Thorwald Dethlefsen,Ödipus der Rätsellöser. Der Mensch zwischen Schuld und Erlösung,1990,philosophy,Germany,188
+Heinrich von Kleist,Amphitryon,1807,drama,Germany,66
+Ernst Herbeck,Alexanders poetische Texte,1977,poetry,Germany,199
+Gerhard Wehr,C. G. Jung,1969,biography,Switzerland,145
+Walter von Hauff,Im Siegeswagen des Dionysos. Ein Nietzsche-Roman,1924,philosophy,Germany,247
+Friedrich Hölderlin,Der Tod des Empedokles,1800,drama,Germany,137
+Jorge Luis Borges,Das Sandbuch,1975,short stories,Argentina,119
+Jorge Luis Borges,Labyrinthe,1949,short stories,Argentina,169
+Rolf Schilling,Lingaraja,2012,poetry,Germany,317
+Rita Reiners,Der Dornbusch,1969,poetry,Germany,68
+Angelus Silesius,Werde wesentlich!,1657,poetry,Germany,15
+,George-Jahrbuch. Band 13,2020,literary studies,Germany,165
