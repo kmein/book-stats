@@ -1,0 +1,47 @@
+---
+title: "Book Statistics"
+author: "Kierán Meinhardt"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+read_books <- function(year) {
+  df <- read.csv(paste("data/", as.character(year), ".csv", sep=""))
+  df$year.read <- year
+  return(df)
+}
+
+books <- rbind(
+  rbind(
+    read_books(2019),
+    read_books(2020)
+  ),
+  read_books(2021)
+)
+books$genre <- as.factor(books$genre)
+books$country.of.origin <- as.factor(books$country.of.origin)
+books$year <- as.factor(books$year)
+books$year.read <- as.factor(books$year.read)
+books$pages <- as.numeric(books$pages)
+
+summary(books)
+
+pages_per_year <- aggregate(books$pages, by=list(Year=books$year.read), FUN=sum)
+ggplot(pages_per_year, aes(Year, x)) + geom_point() + geom_line(color="darkred") + labs(y="Pages read per year")
+
+
+pages_per_genre <- aggregate(books$pages, by=list(Genre=books$genre), FUN=sum)
+ggplot(pages_per_genre, aes(Genre)) + geom_bar() + labs(y="Pages read per year")
+
+
+head(sort(table(books$author), decreasing = TRUE), n = 10)
+
+library(ggplot2)
+ggplot(books, aes(genre)) + geom_bar(stat="count")
+ggplot(books, aes(country.of.origin)) + geom_bar(stat="count")
+```
+
