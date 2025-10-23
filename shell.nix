@@ -7,6 +7,8 @@ pkgs.mkShell {
       p.scipy
       p.seaborn
       p.matplotlib
+      p.requests
     ]))
+    pkgs.jabref
   ];
 }
