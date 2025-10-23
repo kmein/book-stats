@@ -45,6 +45,10 @@ def to_bibtex(data, isbn):
     first_author = author_str.split(" and ")[0].split()[-1] if author_str else "anon"
     bibkey = re.sub(r"\W+", "", first_author) + year
 
+    pages = data.get("number_of_pages", "")
+    if isinstance(pages, int):
+        pages = str(pages)
+
     added_date = datetime.today()
 
     fields = {
@@ -54,6 +58,7 @@ def to_bibtex(data, isbn):
         "year": year,
         "isbn": isbn,
         "added": added_date.strftime("%Y-%m-%d"),
+        "pagetotal": pages,
     }
 
     field_lines = [f"  {k} = {{{v}}}" for k, v in fields.items() if v]
